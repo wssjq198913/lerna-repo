@@ -1,11 +1,11 @@
 {
-  "name": "test2",
+  "name": "johnnyshitest1",
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Johnny <shijinqiang@mi-ya.com.cn>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/test2.js",
+  "main": "lib/test1.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -17,6 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "underscore": "^1.9.1"
-  }
+    "test2": "^1.0.0"
+  },
+  "gitHead": "025ee286e6b22c97f87debf868ad91480ebc2217"
 }

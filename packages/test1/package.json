@@ -1,6 +1,6 @@
 {
   "name": "test1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Johnny <shijinqiang@mi-ya.com.cn>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "test2": "^0.0.0"
+    "test2": "^1.0.0"
   }
 }

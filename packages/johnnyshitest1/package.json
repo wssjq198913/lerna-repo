@@ -1,6 +1,6 @@
 {
   "name": "johnnyshitest1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "Johnny <shijinqiang@mi-ya.com.cn>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "johnnyshitest2": "^1.0.3"
+    "johnnyshitest2": "^1.0.5"
   },
   "gitHead": "020ce5f1d4f5af44e66c8135f42ce237984472d0"
 }

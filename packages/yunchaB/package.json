@@ -1,6 +1,6 @@
 {
   "name": "yunchab",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "yunchaa": "^1.0.2"
+    "yunchaa": "^1.0.3"
   },
   "gitHead": "af29e79255b8eed454dbc1a890cda9b9068d404a"
 }

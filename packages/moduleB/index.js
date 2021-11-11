@@ -1,1 +1,1 @@
-console.log('moduleBbbb')
+console.log('moduleBbb')

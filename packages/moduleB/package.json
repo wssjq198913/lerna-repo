@@ -1,6 +1,6 @@
 {
   "name": "moduleb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
-    "modulea": "^1.0.0"
+    "modulea": "^1.0.1"
   }
 }

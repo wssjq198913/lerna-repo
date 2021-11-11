@@ -11,5 +11,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "modulea": "^1.0.1"
-  }
+  },
+  "gitHead": "7b78d1c537a9d77f9c2755f66e361e0c0514872e"
 }
